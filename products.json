@@ -1,0 +1,620 @@
+[
+  {
+    "product_id": "1",
+    "name": "Figo Premium",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "350.00",
+    "description": "<ul><li><strong>Unique Synergy Formula</strong>: Premium ultra-deep cleaning.</li><li><strong>Enzyme-Powered</strong>: Provides a perfect wash without damaging clothes.</li><li><strong>Deep Stain Removal</strong>: Removes stains in one wash for an impeccable clean.</li><li><strong>Restores Shine</strong>: Revives old garments, making them look new.</li><li><strong>Long-Lasting Fragrance</strong>: Fresh Lemon &amp; Jasmine scent.</li></ul>",
+    "howtouse": "<ul><li>Remove all sharp and hard objects from the pockets before loading clothes in the machine.</li><li>Wash a small part/ section of the new garment to check for colour running/ fading.</li><li>Place clothes of different sizes in the same load to improve washing.</li><li>For best result, use the dose as recommended.</li></ul>",
+    "dosage": "<ul><li>Regular Wash: Use 1 scoop for hand wash and 2 scoops for machine wash.</li><li>Heavy or Dirty clothes: Use 1 ⅟2 scoop for hand wash and 3 scoops for machine wash.</li></ul>",
+    "safetyinformation": "<ul><li>Wash your hands after use.</li><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only</li></ul>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoPremium1.webp",
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoPremium2.webp",
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoPremium3.webp"
+    ],
+    "features": "<ul><li><strong>Unique Synergy Formula</strong>: Premium ultra-deep cleaning.</li><li><strong>Enzyme-Powered</strong>: Instant, perfect wash without damaging clothes.</li><li><strong>Deep Stain Removal</strong>: One wash for impeccable cleanliness.</li><li><strong>Revives Old Garments</strong>: Restores shine to old clothes.</li><li><strong>Long-Lasting Fragrance</strong>: Fresh Lemon &amp; Jasmine scent.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-26 11:26:02",
+    "updated_at": "2025-05-03 11:16:12"
+  },
+  {
+    "product_id": "2",
+    "name": "Figo Excel",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<ul><li><strong>Prevents Fading &amp; Stains</strong>: Revolutionary solution for long-lasting results.</li><li><strong>Instant Stain Removal</strong>: Removes tough stains without damaging clothes.</li><li><strong>Deep Stain Removal</strong>: Clears even the toughest stains in one wash.</li><li><strong>Enzyme-Powered</strong>: Combines extra-cleaning properties for a perfect wash.</li><li><strong>Restores Shine</strong>: Brings a bright, fresh look to clothes.</li><li><strong>Long-Lasting Fragrance</strong>: Provides a lasting, pleasant scent and ultra-deep cleaning.</li></ul>",
+    "howtouse": "<ul><li>Remove all sharp and hard objects from the pockets before loading clothes in the machine.</li><li>Wash a small part/ section of the new garment to check for colour running/ fading.</li><li>Place clothes of different sizes in the same load to improve washing.</li><li>For best result, use the dose as recommended.</li></ul>",
+    "dosage": "<ul><li>Regular Wash: Use 1 scoop for hand wash and 2 scoops for machine wash.</li><li>Heavy or Dirty clothes: Use 1 ⅟2 scoop for hand wash and 3 scoops for machine wash.</li></ul>",
+    "safetyinformation": "<ul><li>Wash your hands after use.</li><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoExcel1.webp",
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoExcel2.webp"
+    ],
+    "features": "<ul><li><strong>Oxygen-Based Formula</strong>: Revives color effectively.</li><li><strong>Easily Dissolves</strong>: Quick foam generation in water.</li><li><strong>Odour Fighter</strong>: Tackles tough odors.</li><li><strong>Pleasing Fragrance</strong>: Fresh scent.</li><li><strong>Keeps Clothes Bright</strong>: Maintains brightness wash after wash.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-26 11:56:52",
+    "updated_at": "2025-04-26 12:51:16"
+  },
+  {
+    "product_id": "3",
+    "name": "Figo Force",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<ul><li><strong>Granules Formula</strong>: Provides perfect cleaning.</li><li><strong>Easy Dissolution</strong>: Penetrates and removes tough dirt.</li><li><strong>Fresh Fragrance</strong>: Keeps clothes smelling fresh.</li><li><strong>Residue-Free</strong>: Leaves no residue on fabric.</li><li><strong>Whitening Boosters</strong>: Maintains the new look of clothes.</li></ul><p><br></p><p><br></p>",
+    "howtouse": "<ul><li>Remove all sharp and hard objects from the pockets before loading clothes in the machine.</li><li>Wash a small part/ section of the new garment to check for colour running/ fading.</li><li>Place clothes of different sizes in the same load to improve washing.</li><li>For best result, use the dose as recommended.</li></ul>",
+    "dosage": "<ul><li>Regular Wash: Use 1 scoop for hand wash and 2 scoops for machine wash.</li><li>Heavy or Dirty clothes: Use 1 ⅟2 scoop for hand wash and 3 scoops for machine wash.</li></ul>",
+    "safetyinformation": "<ul><li>Wash your hands after use.</li><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoForce1.png"
+    ],
+    "features": "<ul><li><strong>Special Granules Formula</strong>: Effective and powerful cleaning.</li><li><strong>Easily Dissolves</strong>: Quick dissolution in water.</li><li><strong>Quick Foam Generation</strong>: Fast foaming action.</li><li><strong>Odour Fighter</strong>: Effectively combats odours.</li><li><strong>Refreshing Fragrance</strong>: Pleasant scent for your clothes.</li><li><strong>Keeps Clothes Bright</strong>: Maintains brightness wash after wash.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 09:56:58",
+    "updated_at": "2025-04-26 12:49:13"
+  },
+  {
+    "product_id": "4",
+    "name": "Figo Matic liquid front load",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<ul><li><strong>Balanced Cleaning Formula</strong>: Gently cleans stains and dirt.</li><li><strong>Protects Fabric Fibres</strong>: Maintains fabric integrity during wash.</li><li><strong>Long-Lasting Freshness</strong>: Keeps clothes looking new for longer.</li></ul>",
+    "howtouse": "<ul><li>Use 1 capful of the product for 1 load in your washing machine.</li><li>Use 1.5 cupful of the product for heavily soiled loads in your washing machine.</li></ul>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Wash your hands after use.</li><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "1L",
+      "2L",
+      "3L",
+      "5L"
+    ],
+    "images": {
+      "1L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/pcimwe4iadiuisllknyo.webp"
+      ],
+      "2L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/whc1bvfsvqgwr0azkh7h.webp"
+      ],
+      "3L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/yrqil15xeeuuy3xuz330.webp"
+      ],
+      "5L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/eprtei4hq56onxuogghg.webp"
+      ]
+    },
+    "features": "<ul><li><strong>Balanced Cleaning Formula</strong>: Gently cleans stains and dirt.</li><li><strong>Protects Fabric Fibres</strong>: Maintains fabric integrity during wash.</li><li><strong>Long-Lasting Freshness</strong>: Keeps clothes looking new for longer.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 11:39:31",
+    "updated_at": "2025-04-23 11:35:56"
+  },
+  {
+    "product_id": "5",
+    "name": "Figo Matic liquid top load",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<p>This enzymatic liquid is designed to deliver superior cleaning with its natural enzymes that break down stains and dirt effectively. The 20 serene fragrance creates a calming atmosphere, lingering gently in the air. Its better dissolution ensures the solution works quickly and evenly, providing fast, efficient results every time.</p>",
+    "howtouse": "<ul><li>Enzyme-powered formula for deep cleaning.</li><li>Serene fragrance for a long-lasting, calming aroma.</li><li>Rapid and even dissolution for enhanced cleaning performance.</li></ul>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>keep away from eyes.</li><li>If product gets into eyes rinse thoroughly with water immediately.</li><li>Do not ingest.</li><li>If product is ingested-seek medical advice.</li><li>Rinse hand with water after use.</li></ul><p><br></p>",
+    "sizes": [
+      "1L",
+      "2L",
+      "3L",
+      "5L"
+    ],
+    "images": {
+      "1L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742986901/Figo%20Matic%20liquid%20top%20load/gyzdu7vvtqmnzddahwoj.png"
+      ],
+      "2L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/nlxqix4exwstgghcfwyl.png"
+      ],
+      "3L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/blueqdxj98xantqqjmsr.png"
+      ],
+      "5L": [
+        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/sqehmawyzaff8eidavxh.png"
+      ]
+    },
+    "features": "<ul><li>Enzyme-powered formula for deep cleaning.</li><li>Serene fragrance for a long-lasting, calming aroma.</li><li>Rapid and even dissolution for enhanced cleaning performance.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-22 10:49:46",
+    "updated_at": "2025-04-23 11:35:57"
+  },
+  {
+    "product_id": "6",
+    "name": "Delicates Fabric Washing Shampoo",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<ul><li><strong>Advanced Formulation</strong>: Low foam, colour-safe cleaner for dark fabrics like Burkha.</li><li><strong>Rich Oud Fragrance</strong>: Keeps clothes smelling fresh even after drying.</li><li><strong>Colour Safe Technology</strong>: Restores shine without harming fabrics, non-toxic and gentle.</li><li><strong>Safe on Hands</strong>: No harsh chemicals, safe for skin contact.</li><li><strong>Made in India</strong>: Proudly manufactured in India.</li></ul>",
+    "howtouse": "<p>Hand washes – Dilute Figo Burkha cleaner 50 ml in 5-10 L of water, soak Burkha in water for 30 minutes for deep cleaning, rub little and rinse with plain water. Machine wash – Dilute Figo Burkha cleaner 50 ml in 4 – 5 kg washing machine, 75 ml for 6-8 kg washing machine, and 100 ml in 9 kg of the washing machine.</p>",
+    "dosage": "<p>Pour the entire contents of one pouch at the bottom of the washing machine/dishwasher.</p><p>Use both the pouches given in the pack for heavy soiling and strong odour.</p>",
+    "safetyinformation": "<p>CAUTION: Do not ingest.</p><p>Keep out of reach of children.</p><p>Avoid contact with direct sunlight.</p>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568662/Delicates%20Fabric%20Washing%20Shampoo/fabric-shampoo-updated.png_m8jwqz.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/1-2.jpg_djio2b.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/2-2.jpg_xbbpcx.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/1-1-1.jpg_ecobih.webp"
+    ],
+    "features": "<ul><li><strong>Low Foam Formula</strong>: Gentle on embellished dark fabrics.</li><li><strong>No Harsh Chemicals</strong>: Safe for fine fabrics.</li><li><strong>Long-Lasting Scent</strong>: Rich Oud fragrance.</li><li><strong>Colour Safe</strong>: Protects dark-colored clothes.</li><li><strong>Safe on Hands</strong>: No harsh chemicals.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-26 11:17:52",
+    "updated_at": "2025-04-23 11:36:00"
+  },
+  {
+    "product_id": "7",
+    "name": "Detergent Bar",
+    "category": "Fabric care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "Hard Dirt Removal: Effectively cleans tough dirt with a long-lasting fragrance.\nBrightens Clothes: Keeps clothes looking like new, wash after wash.\nDeep Clean: Targets tough dirt, especially on cuffs and collars.\nRestores Fibre Shine: Removes dullness from fabric fibres.\nColour & White Safe: Retains new-like shine on both colored and white clothes.\nTough Stain Removal: Fights and removes stains easily, saving time, money, and effort.\n\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Wash your hands after use.</li><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only</li></ul>",
+    "sizes": [
+      "125G",
+      "250G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740650428/Detergent%20Bar/Orange-Yellow-and-Blue-Bright-Punchy-Health-Personal-Care-Product-Images_qks5ix.jpg",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740650434/Detergent%20Bar/DETERGENT-BAR-1-1.jpg_cnjejc.webp"
+    ],
+    "features": "Retains New-Like Shine: Keeps colored and white clothes bright.\nCuff & Collar Specialist: Targets tough stains on cuffs and collars.\nInstant Brightness: Achieves brightness in just one wash.\nFreshening Scent: Leaves clothes with a refreshing fragrance.",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:01:10",
+    "updated_at": "2025-04-23 11:36:06"
+  },
+  {
+    "product_id": "8",
+    "name": "Neak Amonia Free Glass Cleaner",
+    "category": "Home care",
+    "subCategory": "glass cleaner",
+    "price": "0.00",
+    "description": "<p><strong>Ammonia-Free Formula</strong>: Safe for everyday use without the harsh chemicals.</p><p><strong>Essence of Lime</strong>: Activated with a refreshing lime scent for a clean, fresh aroma.</p><p><strong>Antibacterial Formula</strong>: Protects against germs and bacteria for a healthier environment.</p><p><strong>Long-Lasting Fragrance</strong>: Keeps surfaces smelling fresh for hours.</p><p><strong>Powerful Cleansing</strong>: Effectively removes tough stains and dirt.</p><p><strong>All-Purpose Use</strong>: Ideal for a variety of surface cleaning tasks.</p><p><strong>Germ-Free &amp; Fragrant</strong>: Leaves surfaces clean, fresh, and free from harmful germs.</p>",
+    "howtouse": "<p>Turn the nozzle to spray or stream position and apply find mist over the surface.</p><p>Wipe with clean and dry cloth to get complete clean across surface.</p>",
+    "dosage": "",
+    "safetyinformation": "<p><strong>Caution</strong></p><ul><li>Test the hidden area before use.</li><li>Keep out of reach of children.</li><li>In case contact with eye rinse with plenty of water and seek medical advice.</li><li>if swallowed, rinse with water and seek medical advice.</li><li>Not recommended for electrical items.</li></ul>",
+    "sizes": [
+      "500ML"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742985063/Neak/ujyrpkxfrmabkgp2ok67.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535095/Neak%20Amonia%20Free%20Glass%20Cleaner/neak_transperent_2_bxhma1.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:31:38",
+    "updated_at": "2025-05-10 05:03:59"
+  },
+  {
+    "product_id": "9",
+    "name": "Figo Brass and Copper Cleaner Foam",
+    "category": "Home care",
+    "subCategory": "dish wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>Multi-Use Cleaner</strong>: Instantly removes tarnish, cleans, and polishes metals.</li><li><strong>Restores Shine</strong>: Works on Brass, Copper, Bronze, Gold, Nickel, and Stainless Steel.</li><li><strong>Long-Lasting Shine</strong>: Keeps metals clean and shiny.</li><li><strong>Free from Harmful Acids</strong>: No strong inorganic acids or abrasives, ammonia-free.</li><li><strong>Safe on Hands</strong>: Gentle on skin, restores metal beauty.</li><li><strong>Easy to Use</strong>: Effortless polishing with a mirror-like shine.</li><li><strong>Made in India</strong>: Fully manufactured in India.</li></ul>",
+    "howtouse": "<p>STEP 1: Spray on an object directly on a dry surface and leave it for 2 minutes.</p><p>STEP 2: Do Gentle scrubbing on the object.</p><p>STEP 3: Rinse with water to get a bright &amp; clean metal.</p>",
+    "dosage": "Spray the Foam on the stained area of the dry Metal Surface. Cover the stained part fully with the Foam and then leave it for sometime.",
+    "safetyinformation": "<ul><li>In case of eye contact, flush eye immediately with water and consult a physician.</li><li>Prolonged contact with skin should be avoided.</li><li>If swallowed, induce vomiting and consult a physician immediately.</li><li>Keep out of reach of children.</li></ul><p>Note: Use on non-greasy surfaces only.</p>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570348/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/brass-and-copper-ads-for-amazon.png_zjs8yh.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570351/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/8.jpg_mmhcuq.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570352/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/9.jpg_vaktfw.webp"
+    ],
+    "features": "<ul><li><strong>Cleaner Foam</strong>: Cleans and shines surfaces.</li><li><strong>Multi-Use Cleaner</strong>: Suitable for all metal types.</li><li><strong>Long-Lasting Shine</strong>: Restores tarnished Brass, Copper, Chrome, Bronze, Gold, Nickel, and Stainless Steel.</li><li><strong>Non-Hazardous</strong>: Safer for home use, free from inorganic acids.</li><li><strong>Skin Safe</strong>: Safe for general skin contact.</li><li><strong>Easy to Use</strong>: Restores brilliance in minutes.</li><li><strong>Best For</strong>: Plates, door knockers, bathroom fixtures, furniture, and kitchen utensils.</li><li><strong>Made in India</strong>: Ammonia-free and scratch-proof formula.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-26 11:45:54",
+    "updated_at": "2025-04-23 11:36:19"
+  },
+  {
+    "product_id": "10",
+    "name": "Figo Descaler",
+    "category": "Home care",
+    "subCategory": "detergent",
+    "price": "0.00",
+    "description": "<ul><li><strong>Multi-Use Descaler</strong>: Deep cleaning solution for washing machines and dishwashers.</li><li><strong>Improves Lifespan</strong>: Removes lime scale and grease, enhancing washing power.</li><li><strong>Odour Remover</strong>: Freshens and cleans internal parts, leaving clothes odourless.</li><li><strong>Made in India</strong>: Product proudly made in India.</li></ul><p><br></p>",
+    "howtouse": "<ul><li>Remove all the contents of the washing machine/dishwasher.</li><li>Pour the entire contents of one pouch at the bottom of the washing machine/dishwasher.</li><li>Then let the washing machine/dishwasher run through one cycle completely.</li><li>You get a clean, odour-free, and descaled washing machine/dishwasher.</li><li>Use both the pouches given in the pack for heavy soiling and strong odour.</li></ul>",
+    "dosage": "<p>Pour the entire contents of one pouch at the bottom of the washing machine/dishwasher.</p><p>Use both the pouches given in the pack for heavy soiling and strong odour.</p>",
+    "safetyinformation": "<ul><li>CAUTION: Do not ingest.</li><li>Keep out of reach of children.</li><li>Avoid contact with direct sunlight.</li></ul>",
+    "sizes": [
+      "1KG",
+      "2KG",
+      "3KG",
+      "5KG"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740637436/Figo%20Descaler/descaler-ads-for-amzon.png_af8xpm.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740637438/Figo%20Descaler/6-1.jpg_qio9ba.webp"
+    ],
+    "features": "<ul><li><strong>Bacteria &amp; Odour-Free</strong>: Cleans washing machines and dishwashers.</li><li><strong>Deep Cleaning Formula</strong>: Removes lime scale and grease effectively.</li><li><strong>Multi-Use Descaler</strong>: Treats scale deposits in washers and dishwashers.</li><li><strong>Improves Lifespan</strong>: Keeps parts clean for longer device life.</li><li><strong>Odour Remover</strong>: Ensures a fresh, odour-free experience.</li><li><strong>Eco-Friendly</strong>: Non-toxic and biodegradable.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 06:24:02",
+    "updated_at": "2025-04-23 11:33:00"
+  },
+  {
+    "product_id": "11",
+    "name": "Dish Wash Round Tub",
+    "category": "Home care",
+    "subCategory": "dish wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>Superior Hygiene</strong>: Keeps dishes super clean.</li><li><strong>Tough Stain Removal</strong>: Removes grease and difficult stains easily.</li><li><strong>Zero Wastage</strong>: Round shape ensures full usage of the bar.</li><li><strong>Refreshing Lemon Fragrance</strong>: Provides a pleasant cleaning experience.</li><li><strong>Free Scrub Pad</strong>: Comes with a complimentary scrub pad.</li></ul>",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>Do not consume.</li><li>Wash your hands after use.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "500ML"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651636/Dish%20Wash%20Bar%20Round%20Tub/dish_wash_tub_square_ustkti.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651639/Dish%20Wash%20Bar%20Round%20Tub/DISHWASH-BAR-ROUND-1-2.jpg_vcyeaa.webp"
+    ],
+    "features": "<ul><li><strong>Unique Round Design</strong>: Reduces wastage of the bar.</li><li><strong>Refreshing Lemon Fragrance</strong>: Keeps the kitchen smelling fresh.</li><li><strong>Universal Use</strong>: Suitable for all kinds of utensils.</li><li><strong>Odour Removal</strong>: Removes malodour from dirty pots and pans.</li><li><strong>Gentle on Hands</strong>: Safe and soft for skin.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:20:41",
+    "updated_at": "2025-04-23 11:37:09"
+  },
+  {
+    "product_id": "12",
+    "name": "Dish Wash Liquid Gel",
+    "category": "Home care",
+    "subCategory": "dish wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>Powerful Lemon Formula</strong>: Removes tough grease and oil from dishes.</li><li><strong>Sparkling Clean</strong>: Keeps dishes clean and fresh-smelling.</li><li><strong>Long-Lasting Lemon Fragrance</strong>: Pleasant, lasting scent.</li><li><strong>Multi-Surface Cleaner</strong>: Removes dirt and grime from tiles, sinks, and stoves.</li><li><strong>Hand Care</strong>: Prevents drying, leaving hands soft and fresh.</li><li><strong>Stubborn Stain Solution</strong>: Use undiluted gel on the scrub sponge for best results.</li></ul>",
+    "howtouse": "<ul><li>Disperse 3 to 4 ml of FIGO Dish Wash liquid gel in a bowl containing about 40 ml of water.</li><li>Mix well.</li><li>Dip the scrubber.</li><li>Squeeze to generate the foam.</li><li>Clean to get sparkling vessels.</li></ul>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep away from children.</li><li>Do not consume.</li><li>In case the product comes in contact with your eyes, rinse thoroughly with excessive water.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "250ML",
+      "500ML",
+      "800ML(Refill)"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651516/Dish%20Wash%20Liquid%20Gel/Untitled-design-86-1.png_tltpek.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651520/Dish%20Wash%20Liquid%20Gel/FIGO-DISHWASH-LIQUID-GEL-1-2.jpg_j9mwk6.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651521/Dish%20Wash%20Liquid%20Gel/Figo-Dish-Wash-Features_mix5n6.jpg"
+    ],
+    "features": "<ul><li><strong>Power Molecules</strong>: Removes tough grease in one use.</li><li><strong>Long-Lasting Lemon Fragrance</strong>: Keeps the kitchen smelling fresh.</li><li><strong>Gentle on Hands</strong>: Safe and soft for skin.</li><li><strong>Multi-Purpose</strong>: Suitable for various kitchen tasks.</li><li><strong>Residue-Free</strong>: No white residue left after washing.</li><li><strong>Convenient Packaging</strong>: Available in a bottle, with a refill pack option.</li></ul><p><br></p>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:18:44",
+    "updated_at": "2025-04-23 11:36:56"
+  },
+  {
+    "product_id": "13",
+    "name": "Dish Wash Bar",
+    "category": "Home care",
+    "subCategory": "dish wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>Refreshing Lemon Fragrance</strong>: Keeps the kitchen smelling fresh.</li><li><strong>Universal Use</strong>: Suitable for all kinds of utensils.</li><li><strong>Mould Removal</strong>: Removes mould from dirty pots and pans.</li><li><strong>Gentle on Hands</strong>: Safe and soft for skin.</li></ul>",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>Do not consume.</li><li>Wash your hands after use.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "135G",
+      "300G",
+      "400G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651740/Dish%20Wash%20Bar/detergent-bar-new.jpg_josj7o.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651743/Dish%20Wash%20Bar/FIGO-DISH-WASH-BAR-1-1.jpg_gucynz.webp"
+    ],
+    "features": "<ul><li><strong>Active Power Molecules</strong>: Easily remove the toughest grease.</li><li><strong>Grease &amp; Residue Removal</strong>: Cuts through grease, oil, and food sediments.</li><li><strong>Odour Removal</strong>: Eliminates malodour from dirty pots and pans.</li><li><strong>Safe on Delicate Cookware</strong>: Cleans effectively without damaging surfaces.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:22:25",
+    "updated_at": "2025-04-23 11:37:31"
+  },
+  {
+    "product_id": "14",
+    "name": "Neem-Tulsi Handwash",
+    "category": "Personal care",
+    "subCategory": "hand wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li><li><strong>Cleanses &amp; Moisturizes</strong>: Keeps skin clean and hydrated.</li><li><strong>Suitable for All Skin Types</strong>: Gentle and safe for everyone.</li><li><strong>Neem &amp; Tulsi Goodness</strong>: Keeps hands soft and supple.</li></ul><p><br></p>",
+    "howtouse": "<p>Take a few drops of the handwash, add water and rub the hands together to create foam and lather.</p><p>Rub the back of your hands as well as your fingertips and nails.</p><p>Rinse with water and dry with a clean cloth.</p>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>If the handwash comes in contact with your eyes, rinse cautiously with plenty of water for several minutes. If irritation persists, seek medical attention.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "250ML",
+      "500ML",
+      "800ML(Refill)"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651914/Neem-Tulsi%20Handwash/HAND-WASH-CITRUS.png_ohzx0m.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651917/Neem-Tulsi%20Handwash/FIGO-hAND-WASH_Neemtulsi-1-2.jpg_jq2i2q.webp"
+    ],
+    "features": "<ul><li><strong>Suitable for All Skin Types</strong>: Gentle and safe for everyone.</li><li><strong>No Harmful Additives</strong>: Free from Triclosan and Parabens.</li><li><strong>Neem &amp; Tulsi Goodness</strong>: Enriched with natural ingredients.</li><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:25:18",
+    "updated_at": "2025-04-23 11:36:55"
+  },
+  {
+    "product_id": "15",
+    "name": "Lime HandWash",
+    "category": "Personal care",
+    "subCategory": "hand wash",
+    "price": "0.00",
+    "description": "<ul><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li><li><strong>Cleans &amp; Moisturizes</strong>: Cleanses while keeping skin moisturized.</li><li><strong>Lime Goodness</strong>: Keeps hands soft and supple.</li></ul>",
+    "howtouse": "<p>Press the nozzle, take an adequate amount of Figo Lime Hand Wash, rinse your hands thoroughly.&nbsp;You will get a nice germ-free hands, after wash, leaving a nice Lemon Fragrance in your hands there after.</p>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>If the handwash comes in contact with your eyes, rinse cautiously with plenty of water for several minutes. If irritation persists, seek medical attention.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "250ML",
+      "500 ML",
+      "750ML"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651839/Lime%20Hand%20Wash/handwash-lime-sqaure.png_quzroa.webp",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651842/Lime%20Hand%20Wash/FIGO-hAND-WASH_lime-1-2.jpg_vo98kk.webp"
+    ],
+    "features": "<ul><li><strong>Suitable for All Skin Types</strong>: Gentle and safe for everyone.</li><li><strong>No Harmful Additives</strong>: Free from Triclosan and Parabens.</li><li><strong>Lemon Enriched</strong>: Contains the goodness of Lemon.</li><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li><li><strong>Germ Protection</strong>: Effectively keeps germs away.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:24:05",
+    "updated_at": "2025-04-23 11:36:47"
+  },
+  {
+    "product_id": "16",
+    "name": "Phenyl",
+    "category": "Home care",
+    "subCategory": "floor cleaner",
+    "price": "0.00",
+    "description": "<ul><li><strong>Antimicrobial Protection</strong>: Fights infection-causing germs effectively.</li><li><strong>Advanced Technology</strong>: Keeps surfaces clean, fresh, and fragrant.</li><li><strong>Safe on Multiple Surfaces</strong>: Suitable for ceramic, marble, granite, mosaic, and more.</li><li><strong>Not for Wooden Flooring</strong>: Not recommended for use on wood surfaces.</li></ul>",
+    "howtouse": "<p>For the floor &amp; bathroom surfaces, use two to three capful (10-15ml) of the product in half a bucket of water (2-3 litres).</p><p>Gently mop the surface.</p><p>No Need to rinse.</p>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>If the product comes in contact with your eyes, rinse cautiously with plenty of water for several minutes.</li><li>If the product comes in contact with your skin, wash with plenty of soap and water.</li><li>If irritation persists, get medical attention.</li><li>Wash hands thoroughly after handling the product.</li><li>Do not mix with any other household cleaners or acids.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "1LTR"
+    ],
+    "images": [
+      "https://figoindia.com/mainbackend/backend/assets/images/products/Phenyl1.webp",
+      "https://figoindia.com/mainbackend/backend/assets/images/products/Phenyl2.webp"
+    ],
+    "features": "<ul><li><strong>Germ-Free Protection</strong>: Keeps spaces free from germs.</li><li><strong>Long-Lasting Fragrance</strong>: Refreshing scent that lasts.</li><li><strong>Pine Oil Goodness</strong>: Contains antibacterial properties of pine oil.</li><li><strong>Powerful Cleaning</strong>: Removes tough stains and germs.</li><li><strong>Intensive Cleaning</strong>: Suitable for high-need areas like hospitals.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:30:18",
+    "updated_at": "2025-04-26 11:39:00"
+  },
+  {
+    "product_id": "17",
+    "name": "Toilet Cleaner",
+    "category": "Home care",
+    "subCategory": "toilet cleaner",
+    "price": "0.00",
+    "description": "<ul><li><strong>Germ Protection</strong>: Fights infection-causing germs.</li><li><strong>Advanced Technology</strong>: Keeps surfaces freshly clean.</li><li><strong>Stain Removal</strong>: Effectively removes toilet stains for a hygienic, sparkling clean.</li><li><strong>Safe for Indian Toilets</strong>: Can be used on Indian toilets without affecting the septic tank.</li></ul>",
+    "howtouse": "<ul><li>Use FIGO Toilet Cleaner around the bowl and under the rim area.</li><li>Wait for 20 minutes.</li><li>Brush gently.</li><li>Flush.</li></ul>",
+    "dosage": "",
+    "safetyinformation": "<p><strong>Caution:</strong></p><p>Corrosive. May cause irreversible eye damage and skin irritation. Use only for toilet bowls. Keep well closed and store locked up. Do not put the FIGO Toilet Cleaner in eyes, on skin, or on clothing. Wash thoroughly with soap and water after handling. Remove and wash contaminated clothing before reuse. Use only in well-ventilated areas. Keep out of reach of children. It should not be swallowed or inhaled.</p><p><br></p><p><strong>Warning:</strong></p><p>Do not mix with bleach. May release harmful gases (Chlorine).</p><p>For external use only.</p>",
+    "sizes": [
+      "250ML",
+      "500 ML",
+      "750ML"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1745843673/toiletCleaner/p8fhg6h2wzfmob5an4nf.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1745843673/toiletCleaner/myrxwynx27hnkp6vk9gj.webp"
+    ],
+    "features": "<ul><li><strong>Advanced Cleaning Formula</strong>: Provides protection from germs.</li><li><strong>24/7 Germ Protection</strong>: Continuous protection from germs.</li><li><strong>Powerful Cleansing</strong>: Effectively removes tough stains.</li><li><strong>Thick Consistency</strong>: Ensures a spotless toilet every time.</li><li><strong>3X Power Action</strong>: Fast action for super protection.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:32:04",
+    "updated_at": "2025-04-28 12:35:16"
+  },
+  {
+    "product_id": "18",
+    "name": "Citrus Floor Cleaner",
+    "category": "Home care",
+    "subCategory": "floor cleaner",
+    "price": "0.00",
+    "description": "<ul><li><strong>Refreshing Lemon Fragrance</strong>: Activated with a long-lasting lemon scent.</li><li><strong>Antimicrobial Formula</strong>: Fights infection-causing germs instantly.</li><li><strong>All-Purpose Cleaning</strong>: Effective for various surface cleaning tasks.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li><li><strong>Safe on Multiple Surfaces</strong>: Suitable for ceramic, marble, granite, mosaic.</li><li><strong>Not for Wooden Flooring</strong>: Not recommended for use on wood surfaces.</li></ul>",
+    "howtouse": "<p>Floor &amp; Bathroom Surfaces: Use two to three capful (10-15ml) in half a bucket of water (2-3 litres). Gently mop the surface. No need to rinse. Kitchen Surfaces: Use undiluted FIGO Floor Cleaner. Apply on the dirty area. Leave for 10 minutes and rinse.</p>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>If the product comes in contact with your eyes, rinse cautiously with plenty of water for several minutes.</li><li>If the product comes in contact with your skin, wash with plenty of soap and water.</li><li>If irritation persists, get medical attention.</li><li>Wash hands thoroughly after handling the product.</li><li>Do not mix with any other household cleaners or acids.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "500ML",
+      "1 LTR",
+      "2LTR"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740652000/Citrus%20Floor%20Cleaner/figo-floor-cleaner-citrus.png_osvzmg.webp"
+    ],
+    "features": "<ul><li><strong>Essence of Lime</strong>: Activated with a refreshing lime scent.</li><li><strong>Antibacterial Formula</strong>: Provides protection from germs.</li><li><strong>Long-Lasting Fragrance</strong>: Keeps surfaces smelling fresh.</li><li><strong>Powerful Cleansing</strong>: Removes tough stains effectively.</li><li><strong>All-Purpose Use</strong>: Suitable for various surface cleaning tasks.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:26:48",
+    "updated_at": "2025-04-23 11:36:40"
+  },
+  {
+    "product_id": "19",
+    "name": "Floral Floor Cleaner",
+    "category": "Home care",
+    "subCategory": "floor cleaner",
+    "price": "0.00",
+    "description": "<ul><li><strong>Floral Fragrance</strong>: Activated with a refreshing, long-lasting floral scent.</li><li><strong>Antimicrobial Formula</strong>: Instantly fights infection-causing germs.</li><li><strong>All-Purpose Cleaning</strong>: Effective on various surfaces.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li><li><strong>Safe on Multiple Surfaces</strong>: Suitable for ceramic, marble, granite, and mosaic.</li><li><strong>Not for Wooden Flooring</strong>: Not recommended for use on wood surfaces.</li></ul><p><br></p>",
+    "howtouse": "<p>Floor &amp; Bathroom Surfaces: Use two to three capful (10-15ml) in half a bucket of water (2-3 litres). Gently mop the surface. No need to rinse.</p><p>Kitchen Surfaces: Use undiluted FIGO Floor Cleaner. Apply on the dirty area. Leave for 10 minutes and rinse.</p>",
+    "dosage": "",
+    "safetyinformation": "<ul><li>Keep out of reach of children.</li><li>If the product comes in contact with your eyes, rinse cautiously with plenty of water for several minutes.</li><li>If the product comes in contact with your skin, wash with plenty of soap and water.</li><li>If irritation persists, get medical attention.</li><li>Wash hands thoroughly after handling the product.</li><li>Do not mix with any other household cleaners or acids.</li><li>Store away from direct sunlight.</li><li>For external use only.</li></ul>",
+    "sizes": [
+      "500ML",
+      "1 LTR",
+      "2LTR"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740652127/Floral%20Floor%20Cleaner/figo-floor-cleaner-floral.png_nxefa9.webp"
+    ],
+    "features": "<ul><li><strong>Essence of Flowers</strong>: Activated with a refreshing floral scent.</li><li><strong>Antibacterial Formula</strong>: Provides protection from germs.</li><li><strong>Long-Lasting Floral Fragrance</strong>: Keeps surfaces smelling fresh.</li><li><strong>Powerful Cleaning</strong>: Effectively removes tough stains.</li><li><strong>All-Purpose Use</strong>: Suitable for various surface cleaning tasks.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li></ul>",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-02-27 10:28:51",
+    "updated_at": "2025-04-23 11:36:38"
+  },
+  {
+    "product_id": "20",
+    "name": "Freshya Bath Soap Bouquet",
+    "category": "Personal care",
+    "subCategory": "bath soap",
+    "price": "0.00",
+    "description": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "",
+    "sizes": [
+      "100G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534837/Freshya%20Bath%20Soap%20Bouquet/Artboard_1_jiw2qn.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534844/Freshya%20Bath%20Soap%20Bouquet/bouqet_pack_4_mock_up_szuhjh.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534848/Freshya%20Bath%20Soap%20Bouquet/buqeut_front_mockup_to9ijb.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:27:32",
+    "updated_at": "2025-04-23 11:36:31"
+  },
+  {
+    "product_id": "21",
+    "name": "Freshya Bath Soap Rose",
+    "category": "Personal care",
+    "subCategory": "bath soap",
+    "price": "0.00",
+    "description": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "",
+    "sizes": [
+      "100G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534896/Freshya%20Bath%20Soap%20Rose/Artboard_4_hqekcd.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534901/Freshya%20Bath%20Soap%20Rose/12_z74zqj.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534907/Freshya%20Bath%20Soap%20Rose/rose_pack_4_mock_up_taqafm.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:28:39",
+    "updated_at": "2025-04-23 11:36:30"
+  },
+  {
+    "product_id": "22",
+    "name": "Freshya Bath Soap Sandal",
+    "category": "Personal care",
+    "subCategory": "bath soap",
+    "price": "0.00",
+    "description": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "",
+    "sizes": [
+      "100G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535011/Freshya%20Bath%20Soap%20Sandal/Artboard_2_knwvio.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535017/Freshya%20Bath%20Soap%20Sandal/sandal_front_mockup_jwsttn.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535022/Freshya%20Bath%20Soap%20Sandal/24_qzbejx.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:30:25",
+    "updated_at": "2025-04-23 11:36:29"
+  },
+  {
+    "product_id": "23",
+    "name": "Freshya Bath Soap Lime",
+    "category": "Personal care",
+    "subCategory": "bath soap",
+    "price": "0.00",
+    "description": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "",
+    "sizes": [
+      "100G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535042/Freshya%20Bath%20Soap%20Lime/Artboard_3_lwja8m.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535048/Freshya%20Bath%20Soap%20Lime/front_mockup_lime_zr3x8d.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535050/Freshya%20Bath%20Soap%20Lime/21_dadd7f.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:30:52",
+    "updated_at": "2025-04-23 11:36:29"
+  },
+  {
+    "product_id": "24",
+    "name": "Freshya Bath Soap Jasmin",
+    "category": "Personal care",
+    "subCategory": "bath soap",
+    "price": "0.00",
+    "description": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "howtouse": "",
+    "dosage": "",
+    "safetyinformation": "",
+    "sizes": [
+      "100G"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534977/Freshya%20Bath%20Soap%20Jasmin/Artboard_5_wbwpvz.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534981/Freshya%20Bath%20Soap%20Jasmin/21_1_qren3t.png",
+      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534985/Freshya%20Bath%20Soap%20Jasmin/jasmine_x4_hm5nfi.png"
+    ],
+    "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
+    "rating_sum": "0",
+    "total_rates": "0",
+    "created_at": "2025-03-21 05:29:48",
+    "updated_at": "2025-04-23 11:36:28"
+  }
+]
