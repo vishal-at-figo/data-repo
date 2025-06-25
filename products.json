@@ -68,9 +68,7 @@
       "3KG",
       "5KG"
     ],
-    "images": [
-      "https://figoindia.com/mainbackend/backend/assets/images/products/FigoForce1.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_force.png"],
     "features": "<ul><li><strong>Special Granules Formula</strong>: Effective and powerful cleaning.</li><li><strong>Easily Dissolves</strong>: Quick dissolution in water.</li><li><strong>Quick Foam Generation</strong>: Fast foaming action.</li><li><strong>Odour Fighter</strong>: Effectively combats odours.</li><li><strong>Refreshing Fragrance</strong>: Pleasant scent for your clothes.</li><li><strong>Keeps Clothes Bright</strong>: Maintains brightness wash after wash.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -94,19 +92,11 @@
       "5L"
     ],
     "images": {
-      "1L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/pcimwe4iadiuisllknyo.webp"
-      ],
-      "2L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/whc1bvfsvqgwr0azkh7h.webp"
-      ],
-      "3L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/yrqil15xeeuuy3xuz330.webp"
-      ],
-      "5L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743155209/Figo%20Matic%20liquid%20front%20load/eprtei4hq56onxuogghg.webp"
-      ]
-    },
+    "1L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_front_load1.webp"] ,
+    "2L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_front_load2.webp"] ,
+    "3L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_front_load3.webp"] ,
+    "5L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_front_load4.webp"]
+},
     "features": "<ul><li><strong>Balanced Cleaning Formula</strong>: Gently cleans stains and dirt.</li><li><strong>Protects Fabric Fibres</strong>: Maintains fabric integrity during wash.</li><li><strong>Long-Lasting Freshness</strong>: Keeps clothes looking new for longer.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -130,19 +120,11 @@
       "5L"
     ],
     "images": {
-      "1L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742986901/Figo%20Matic%20liquid%20top%20load/gyzdu7vvtqmnzddahwoj.png"
-      ],
-      "2L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/nlxqix4exwstgghcfwyl.png"
-      ],
-      "3L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/blueqdxj98xantqqjmsr.png"
-      ],
-      "5L": [
-        "https://res.cloudinary.com/dfv2zesg7/image/upload/v1743058752/Figo%20Matic%20liquid%20top%20load/sqehmawyzaff8eidavxh.png"
-      ]
-    },
+    "1L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_top_load1.png"] ,
+    "2L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_top_load2.png"] ,
+    "3L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_top_load3.png"] ,
+    "5L" : ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_matic_top_load5.png"]
+},
     "features": "<ul><li>Enzyme-powered formula for deep cleaning.</li><li>Serene fragrance for a long-lasting, calming aroma.</li><li>Rapid and even dissolution for enhanced cleaning performance.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -165,12 +147,7 @@
       "3KG",
       "5KG"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568662/Delicates%20Fabric%20Washing%20Shampoo/fabric-shampoo-updated.png_m8jwqz.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/1-2.jpg_djio2b.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/2-2.jpg_xbbpcx.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740568670/Delicates%20Fabric%20Washing%20Shampoo/1-1-1.jpg_ecobih.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_fabric_shampoo4.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_fabric_shampoo2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_fabric_shampoo3.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_fabric_shampoo1.webp"],
     "features": "<ul><li><strong>Low Foam Formula</strong>: Gentle on embellished dark fabrics.</li><li><strong>No Harsh Chemicals</strong>: Safe for fine fabrics.</li><li><strong>Long-Lasting Scent</strong>: Rich Oud fragrance.</li><li><strong>Colour Safe</strong>: Protects dark-colored clothes.</li><li><strong>Safe on Hands</strong>: No harsh chemicals.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -191,10 +168,7 @@
       "125G",
       "250G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740650428/Detergent%20Bar/Orange-Yellow-and-Blue-Bright-Punchy-Health-Personal-Care-Product-Images_qks5ix.jpg",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740650434/Detergent%20Bar/DETERGENT-BAR-1-1.jpg_cnjejc.webp"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_detergent_bar2.jpg","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_detergent_bar1.webp"],
     "features": "Retains New-Like Shine: Keeps colored and white clothes bright.\nCuff & Collar Specialist: Targets tough stains on cuffs and collars.\nInstant Brightness: Achieves brightness in just one wash.\nFreshening Scent: Leaves clothes with a refreshing fragrance.",
     "rating_sum": "0",
     "total_rates": "0",
@@ -214,10 +188,7 @@
     "sizes": [
       "500ML"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742985063/Neak/ujyrpkxfrmabkgp2ok67.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535095/Neak%20Amonia%20Free%20Glass%20Cleaner/neak_transperent_2_bxhma1.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/neak_glass_cleaner1.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/neak_glass_cleaner2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/neak_glass_cleaner3.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
@@ -240,11 +211,7 @@
       "3KG",
       "5KG"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570348/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/brass-and-copper-ads-for-amazon.png_zjs8yh.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570351/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/8.jpg_mmhcuq.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740570352/Figo%20Brass%20and%20Copper%20Cleaner%20Foam/9.jpg_vaktfw.webp"
-    ],
+    "images": ["https://admin.figoindia.com/backendadmin/public/uploads//images/figo_brass_copper3.webp","https://admin.figoindia.com/backendadmin/public/uploads//images/figo_brass_copper1.webp","https://admin.figoindia.com/backendadmin/public/uploads//images/figo_brass_copper2.webp"],
     "features": "<ul><li><strong>Cleaner Foam</strong>: Cleans and shines surfaces.</li><li><strong>Multi-Use Cleaner</strong>: Suitable for all metal types.</li><li><strong>Long-Lasting Shine</strong>: Restores tarnished Brass, Copper, Chrome, Bronze, Gold, Nickel, and Stainless Steel.</li><li><strong>Non-Hazardous</strong>: Safer for home use, free from inorganic acids.</li><li><strong>Skin Safe</strong>: Safe for general skin contact.</li><li><strong>Easy to Use</strong>: Restores brilliance in minutes.</li><li><strong>Best For</strong>: Plates, door knockers, bathroom fixtures, furniture, and kitchen utensils.</li><li><strong>Made in India</strong>: Ammonia-free and scratch-proof formula.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -267,10 +234,7 @@
       "3KG",
       "5KG"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740637436/Figo%20Descaler/descaler-ads-for-amzon.png_af8xpm.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740637438/Figo%20Descaler/6-1.jpg_qio9ba.webp"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_descaler2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_descaler1.webp"],
     "features": "<ul><li><strong>Bacteria &amp; Odour-Free</strong>: Cleans washing machines and dishwashers.</li><li><strong>Deep Cleaning Formula</strong>: Removes lime scale and grease effectively.</li><li><strong>Multi-Use Descaler</strong>: Treats scale deposits in washers and dishwashers.</li><li><strong>Improves Lifespan</strong>: Keeps parts clean for longer device life.</li><li><strong>Odour Remover</strong>: Ensures a fresh, odour-free experience.</li><li><strong>Eco-Friendly</strong>: Non-toxic and biodegradable.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -290,10 +254,8 @@
     "sizes": [
       "500ML"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651636/Dish%20Wash%20Bar%20Round%20Tub/dish_wash_tub_square_ustkti.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651639/Dish%20Wash%20Bar%20Round%20Tub/DISHWASH-BAR-ROUND-1-2.jpg_vcyeaa.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_round_tub2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_round_tub1.webp"]
+,
     "features": "<ul><li><strong>Unique Round Design</strong>: Reduces wastage of the bar.</li><li><strong>Refreshing Lemon Fragrance</strong>: Keeps the kitchen smelling fresh.</li><li><strong>Universal Use</strong>: Suitable for all kinds of utensils.</li><li><strong>Odour Removal</strong>: Removes malodour from dirty pots and pans.</li><li><strong>Gentle on Hands</strong>: Safe and soft for skin.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -315,11 +277,7 @@
       "500ML",
       "800ML(Refill)"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651516/Dish%20Wash%20Liquid%20Gel/Untitled-design-86-1.png_tltpek.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651520/Dish%20Wash%20Liquid%20Gel/FIGO-DISHWASH-LIQUID-GEL-1-2.jpg_j9mwk6.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651521/Dish%20Wash%20Liquid%20Gel/Figo-Dish-Wash-Features_mix5n6.jpg"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_liquid_gel3.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_liquid_gel2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_liquid_gel1.jpg"],
     "features": "<ul><li><strong>Power Molecules</strong>: Removes tough grease in one use.</li><li><strong>Long-Lasting Lemon Fragrance</strong>: Keeps the kitchen smelling fresh.</li><li><strong>Gentle on Hands</strong>: Safe and soft for skin.</li><li><strong>Multi-Purpose</strong>: Suitable for various kitchen tasks.</li><li><strong>Residue-Free</strong>: No white residue left after washing.</li><li><strong>Convenient Packaging</strong>: Available in a bottle, with a refill pack option.</li></ul><p><br></p>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -341,10 +299,8 @@
       "300G",
       "400G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651740/Dish%20Wash%20Bar/detergent-bar-new.jpg_josj7o.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651743/Dish%20Wash%20Bar/FIGO-DISH-WASH-BAR-1-1.jpg_gucynz.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_bar1.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_dishwash_bar2.webp"]
+,
     "features": "<ul><li><strong>Active Power Molecules</strong>: Easily remove the toughest grease.</li><li><strong>Grease &amp; Residue Removal</strong>: Cuts through grease, oil, and food sediments.</li><li><strong>Odour Removal</strong>: Eliminates malodour from dirty pots and pans.</li><li><strong>Safe on Delicate Cookware</strong>: Cleans effectively without damaging surfaces.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -366,10 +322,7 @@
       "500ML",
       "800ML(Refill)"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651914/Neem-Tulsi%20Handwash/HAND-WASH-CITRUS.png_ohzx0m.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651917/Neem-Tulsi%20Handwash/FIGO-hAND-WASH_Neemtulsi-1-2.jpg_jq2i2q.webp"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/neem_tulsi_handwash2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/neem_tulsi_handwash1.webp"],
     "features": "<ul><li><strong>Suitable for All Skin Types</strong>: Gentle and safe for everyone.</li><li><strong>No Harmful Additives</strong>: Free from Triclosan and Parabens.</li><li><strong>Neem &amp; Tulsi Goodness</strong>: Enriched with natural ingredients.</li><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -391,10 +344,7 @@
       "500 ML",
       "750ML"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651839/Lime%20Hand%20Wash/handwash-lime-sqaure.png_quzroa.webp",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740651842/Lime%20Hand%20Wash/FIGO-hAND-WASH_lime-1-2.jpg_vo98kk.webp"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/lime_handwas2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/lime_handwas1.webp"],
     "features": "<ul><li><strong>Suitable for All Skin Types</strong>: Gentle and safe for everyone.</li><li><strong>No Harmful Additives</strong>: Free from Triclosan and Parabens.</li><li><strong>Lemon Enriched</strong>: Contains the goodness of Lemon.</li><li><strong>pH-Balanced Formula</strong>: Soft on hands, tough on germs.</li><li><strong>Germ Protection</strong>: Effectively keeps germs away.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -414,10 +364,7 @@
     "sizes": [
       "1LTR"
     ],
-    "images": [
-      "https://figoindia.com/mainbackend/backend/assets/images/products/Phenyl1.webp",
-      "https://figoindia.com/mainbackend/backend/assets/images/products/Phenyl2.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/phenyl2.webp","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/phenyl1.webp"],
     "features": "<ul><li><strong>Germ-Free Protection</strong>: Keeps spaces free from germs.</li><li><strong>Long-Lasting Fragrance</strong>: Refreshing scent that lasts.</li><li><strong>Pine Oil Goodness</strong>: Contains antibacterial properties of pine oil.</li><li><strong>Powerful Cleaning</strong>: Removes tough stains and germs.</li><li><strong>Intensive Cleaning</strong>: Suitable for high-need areas like hospitals.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -439,10 +386,7 @@
       "500 ML",
       "750ML"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1745843673/toiletCleaner/p8fhg6h2wzfmob5an4nf.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1745843673/toiletCleaner/myrxwynx27hnkp6vk9gj.webp"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/toilet_cleaner2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/toilet_cleaner1.webp"],
     "features": "<ul><li><strong>Advanced Cleaning Formula</strong>: Provides protection from germs.</li><li><strong>24/7 Germ Protection</strong>: Continuous protection from germs.</li><li><strong>Powerful Cleansing</strong>: Effectively removes tough stains.</li><li><strong>Thick Consistency</strong>: Ensures a spotless toilet every time.</li><li><strong>3X Power Action</strong>: Fast action for super protection.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -464,9 +408,7 @@
       "1 LTR",
       "2LTR"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740652000/Citrus%20Floor%20Cleaner/figo-floor-cleaner-citrus.png_osvzmg.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_floor_cleaner_citrus.webp"],
     "features": "<ul><li><strong>Essence of Lime</strong>: Activated with a refreshing lime scent.</li><li><strong>Antibacterial Formula</strong>: Provides protection from germs.</li><li><strong>Long-Lasting Fragrance</strong>: Keeps surfaces smelling fresh.</li><li><strong>Powerful Cleansing</strong>: Removes tough stains effectively.</li><li><strong>All-Purpose Use</strong>: Suitable for various surface cleaning tasks.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -488,9 +430,7 @@
       "1 LTR",
       "2LTR"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1740652127/Floral%20Floor%20Cleaner/figo-floor-cleaner-floral.png_nxefa9.webp"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/floral_floor_cleaner.webp"],
     "features": "<ul><li><strong>Essence of Flowers</strong>: Activated with a refreshing floral scent.</li><li><strong>Antibacterial Formula</strong>: Provides protection from germs.</li><li><strong>Long-Lasting Floral Fragrance</strong>: Keeps surfaces smelling fresh.</li><li><strong>Powerful Cleaning</strong>: Effectively removes tough stains.</li><li><strong>All-Purpose Use</strong>: Suitable for various surface cleaning tasks.</li><li><strong>Germ-Free &amp; Fragrant</strong>: Removes dirt and leaves surfaces clean and fresh.</li></ul>",
     "rating_sum": "0",
     "total_rates": "0",
@@ -510,11 +450,7 @@
     "sizes": [
       "100G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534837/Freshya%20Bath%20Soap%20Bouquet/Artboard_1_jiw2qn.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534844/Freshya%20Bath%20Soap%20Bouquet/bouqet_pack_4_mock_up_szuhjh.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534848/Freshya%20Bath%20Soap%20Bouquet/buqeut_front_mockup_to9ijb.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_buqent_soap2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_buqent_soap1.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_buqent_soap3.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
@@ -534,11 +470,7 @@
     "sizes": [
       "100G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534896/Freshya%20Bath%20Soap%20Rose/Artboard_4_hqekcd.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534901/Freshya%20Bath%20Soap%20Rose/12_z74zqj.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534907/Freshya%20Bath%20Soap%20Rose/rose_pack_4_mock_up_taqafm.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_rose_soap3.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_rose_soap2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_rose_soap1.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
@@ -558,11 +490,7 @@
     "sizes": [
       "100G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535011/Freshya%20Bath%20Soap%20Sandal/Artboard_2_knwvio.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535017/Freshya%20Bath%20Soap%20Sandal/sandal_front_mockup_jwsttn.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535022/Freshya%20Bath%20Soap%20Sandal/24_qzbejx.png"
-    ],
+    "images":["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_sandal_soap3.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_sandal_soap2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_sandal_soap1.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
@@ -582,11 +510,7 @@
     "sizes": [
       "100G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535042/Freshya%20Bath%20Soap%20Lime/Artboard_3_lwja8m.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535048/Freshya%20Bath%20Soap%20Lime/front_mockup_lime_zr3x8d.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742535050/Freshya%20Bath%20Soap%20Lime/21_dadd7f.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_lime_soap3.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_lime_soap2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_lime_soap1.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
@@ -606,11 +530,7 @@
     "sizes": [
       "100G"
     ],
-    "images": [
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534977/Freshya%20Bath%20Soap%20Jasmin/Artboard_5_wbwpvz.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534981/Freshya%20Bath%20Soap%20Jasmin/21_1_qren3t.png",
-      "https://res.cloudinary.com/dfv2zesg7/image/upload/v1742534985/Freshya%20Bath%20Soap%20Jasmin/jasmine_x4_hm5nfi.png"
-    ],
+    "images": ["https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_jasmin_soap3.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_jasmin_soap2.png","https://raw.githubusercontent.com/vishal-at-figo/data-repo/refs/heads/main/figo_jasmin_soap1.png"],
     "features": "Essence of Lime: Activated with a refreshing lime scent.\nAntibacterial Formula: Provides protection from germs.\nLong-Lasting Fragrance: Keeps surfaces smelling fresh.\nPowerful Cleansing: Removes tough stains effectively.\nAll-Purpose Use: Suitable for various surface cleaning tasks.\nGerm-Free & Fragrant: Removes dirt and leaves surfaces clean and fresh.\n\n",
     "rating_sum": "0",
     "total_rates": "0",
